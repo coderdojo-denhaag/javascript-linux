@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "Rekenmachine",
+      "description": "Maak een werkende rekenmachine in HTML en JavaScript.",
+      "learningGoals": "Je leert over forms, event handlers en basis JavaScript functies.",
+      "pdfFile": "opdrachten/Rekenmachine-Naamfun-Snake.pdf"
+    },
+    {
+      "name": "Lingo",
+      "description": "Maak het bekende woordraadspel Lingo!",
+      "learningGoals": "Je leert over arrays, loops en DOM manipulatie.",
+      "pdfFile": "opdrachten/lingo.pdf"
+    },
+    {
+      "name": "Sterren Plukken",
+      "description": "Een actie game waarbij je sterren moet verzamelen en bommen moet ontwijken.",
+      "learningGoals": "Je leert over canvas, animaties en collision detection.",
+      "pdfFile": "opdrachten/sterren-plukken.pdf"
+    },
+    {
+      "name": "Flappy Bird",
+      "description": "Maak een kloon van het populaire Flappy Bird spel met de Phaser framework.",
+      "learningGoals": "Je leert over game physics en sprite animaties.",
+      "pdfFile": "opdrachten/flappy-bird.pdf"
+    },
+    {
+      "name": "Space Invaders",
+      "description": "Bouw de klassieker Space Invaders opnieuw!",
+      "learningGoals": "Je leert over game loops, collision detection en score tracking.",
+      "pdfFile": "opdrachten/space-invaders.pdf"
+    },
+    {
+      "name": "Je eigen weerapp",
+      "description": "Maak een weerapp die actuele weergegevens toont.",
+      "learningGoals": "Je leert over API's, fetch requests en JSON data verwerken.",
+      "pdfFile": "opdrachten/weerapp.pdf"
+    },
+    {
+      "name": "Snake",
+      "description": "Het beroemde Snake spelletje. Deze is wel moeilijk!",
+      "learningGoals": "Je leert over game state management, grid systems en input handling.",
+      "pdfFile": "opdrachten/snake.pdf"
+    }
+  ]
+}
